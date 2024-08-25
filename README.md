@@ -2,9 +2,9 @@
 
 🚀 Programador e entusiasta de tecnologia | Estudante de Análise e Desenvolvimento de Sistemas no Senac 🎓 | Apaixonado por enfrentar desafios através do código 💻 | Sempre aprendendo para acompanhar as inovações no mundo da programação e contribuir com soluções criativas.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrohbsilva)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohb.dev@gmail.com)
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](pedroh.borges@outlook.com.br)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohbsilva)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohb.dev@gmail.com)
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedroh.borges@outlook.com.br)
 
 ### Tecnologias que estou Aperfeiçoando:
 
